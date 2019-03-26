@@ -3,6 +3,7 @@
 Compiling and Running Instructions for Linux
 
 #Step1: Open Terminal
+
 #Step2: Type command to install g++ complier:
 $ sudo apt-get install build-essential
 
